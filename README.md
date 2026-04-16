@@ -51,5 +51,5 @@
 ### 📊 GitHub İstatistiklerim / Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mascudısse&layout=compact&theme=radical&locale=tr" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mascudisse&layout=compact&theme=radical&locale=tr" alt="Top Langs" />
 </p>
