@@ -5,7 +5,7 @@
     <b>Bilgisayar Programcılığı Öğrencisi | Kulüp  Denetim Başkanı | Yazılım Geliştirici</b><br>
     Computer Programming Student | Club  Audit President | Software Developer
   </p>
-  <a href="https://www.linkedin.com/in/mascud-nur-11037b340/">
+  <a href="https://www.linkedin.com/in/mascud-isse-nur-11037b340/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
