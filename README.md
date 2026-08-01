@@ -2,8 +2,8 @@
   <h1>Merhaba, Ben Mascud Isse Nur! 👋</h1>
   <h3>Hi there, I'm  Mascud Isse Nur!</h3>
   <p>
-    <b>Bilgisayar Programcılığı Öğrencisi | Kulüp  Denetim Başkanı | Yazılım Geliştirici</b><br>
-    Computer Programming Student | Club  Audit President | Software Developer
+    <b>Bilgisayar Programcı | Fullstack Geliştirici| Yazılım Geliştirici</b><br>
+    Computer Programmer |  Fullstac  kDeveloper| Software Developer
   </p>
   <a href="https://www.linkedin.com/in/mascud-isse-nur-11037b340/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
